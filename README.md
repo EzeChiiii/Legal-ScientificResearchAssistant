@@ -30,7 +30,7 @@ An intelligent AI-powered legal assistant that helps users analyze legal PDFs by
 ```
 legal-assistant-agent/
 │
-├── main.py                     # Core Streamlit app with RAG pipeline
+├── mini_project-2_Iwu.py                     # Core Streamlit app with RAG pipeline
 ├── chroma_db/                  # Persisted Chroma vector database
 ├── requirements.txt
 └── README.md
