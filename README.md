@@ -51,7 +51,7 @@ legal-assistant-agent/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/legal-assistant-agent.git
+git clone https://github.com/EzeChiiii/Legal-ScientificResearchAssistant.git
 cd legal-assistant-agent
 ```
 
