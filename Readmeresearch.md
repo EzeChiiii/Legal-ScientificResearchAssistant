@@ -57,7 +57,7 @@ scientific-research-assistant/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/scientific-research-assistant.git
+git clone (https://github.com/EzeChiiii/Legal-ScientificResearchAssistant.git)
 cd scientific-research-assistant
 ```
 
