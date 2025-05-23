@@ -14,7 +14,23 @@ An AI-powered assistant designed to help researchers explore underdeveloped scie
 
 ## 📸 Demo Preview
 
-<img width="1440" alt="Screenshot 2025-05-23 at 7 18 36 PM" src="https://github.com/user-attachments/assets/f14cadd3-9557-4e41-b6a8-6c49ef6e5364" />
+<img width="604" alt="Screenshot 2025-05-23 at 7 41 09 PM" src="https://github.com/user-attachments/assets/633a8b6f-f0e0-4933-9387-e3e046ff6438" />
+
+
+
+<img width="722" alt="Screenshot 2025-05-23 at 7 43 00 PM" src="https://github.com/user-attachments/assets/d7b351bc-19e0-4d69-a081-a1efe3316516" />
+
+
+
+<img width="1440" alt="Screenshot 2025-05-23 at 7 43 37 PM" src="https://github.com/user-attachments/assets/b37bd566-dfe2-4d46-9d01-9f0ffadbc5e7" />
+
+
+<img width="1440" alt="Screenshot 2025-05-23 at 7 44 02 PM" src="https://github.com/user-attachments/assets/7a24e496-777a-4391-9339-7235cde8279a" />
+
+
+
+
+
 
 
 ## 🛠️ Tech Stack
