@@ -14,7 +14,17 @@ An intelligent AI-powered legal assistant that helps users analyze legal PDFs by
 
 ## 📸 Demo Preview
 
-*(You can include a GIF or screenshot here of your Streamlit app in action)*
+<img width="1440" alt="Screenshot 2025-05-23 at 7 18 36 PM" src="https://github.com/user-attachments/assets/6dd7ebec-b22d-4b0b-9e6f-d85642f08832" />
+
+
+<img width="1440" alt="Screenshot 2025-05-23 at 7 25 43 PM" src="https://github.com/user-attachments/assets/dc1b2475-f33e-48b8-934b-35a63af3929f" />
+
+
+<img width="1440" alt="Screenshot 2025-05-23 at 7 36 54 PM" src="https://github.com/user-attachments/assets/ea59fc5a-4f86-44cd-8307-1da8998ac099" />
+
+
+
+
 
 ## 🛠️ Tech Stack
 
